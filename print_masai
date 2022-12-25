@@ -1,0 +1,4 @@
+let firstName = "Masai School";
+let secondName = "A Transformation in Education"
+console.log(firstName);
+console.log(secondName);

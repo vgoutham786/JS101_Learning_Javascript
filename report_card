@@ -1,0 +1,26 @@
+let name =   "Name        :Goutham";
+let school = "School Name :Masai School";
+let section ="Section     :FT WEB 25";
+let rollNo = "Roll No     :fw25_334";
+let subgrade ="SUBJECT                   MARKS"
+let sub1 =    "Java Script              ";
+let sub2 = "Data Structure Algorithm ";
+let sub3 = "Communication Skills     ";
+let grade1 = " 90";
+let grade2 = " 85";
+let grade3 = " 80";
+let reportCard =`╔═╗▒▒▒▒▒▒▒╔╗▒╔═╗▒▒▒▒▒╔╗
+║╬╠═╦═╦═╦╦╣╚╗║╔╬═╗╔╦╦╝║
+║╗╣╩╣╬║╬║╔╣╔╣║╚╣╬╚╣╔╣╬║
+╚╩╩═╣╔╩═╩╝╚═╝╚═╩══╩╝╚═╝
+▒▒▒▒╚╝▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒`;
+
+console.log(reportCard);
+console.log(school);
+console.log(section);
+console.log(name);
+console.log(rollNo);
+console.log(subgrade);
+console.log(sub1,grade1);
+console.log(sub2,grade2);
+console.log(sub3,grade3);

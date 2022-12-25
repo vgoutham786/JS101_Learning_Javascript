@@ -1,0 +1,6 @@
+let name= "Goutham";
+console.log(name);
+name = "Venkatesh";
+console.log(name);
+name = "Radha";
+console.log(name);
